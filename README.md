@@ -18,8 +18,8 @@ My full name is Marc Jhon M. Lawingco, its too long so just call me on my nickna
 ### Want to have a new friend? Connect with me!
 - [Personal Site][website]
 - [Twitter][twitter]
-- [MyAnimeList][twitter]
-- [Youtube - I make Vocaloid covers from time to time!][linkedin]
+- [MyAnimeList][myanimelist]
+- [Youtube - I make Vocaloid covers from time to time!][youtube]
 - [LinkedIn][linkedin]
 
 
