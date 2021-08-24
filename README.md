@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size: 14px">
- Developer | Writer | <span style="text-decoration:line-through">Weeb</span> Anime Fan
+ Developer | Writer | Anime Fan
 </p>
 
 ## Bits of info about me...
