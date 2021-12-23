@@ -27,7 +27,7 @@ My full name is Marc Jhon M. Lawingco, its too long so just call me on my nickna
 
 ### Anyway, Thank you for dropping by! See you!
 
-[website]: https://kllawingco.netlify.app/
+[website]: https://kllawingco.com/
 [twitter]: https://twitter.com/keysl1831/
 [myanimelist]: https://myanimelist.net/profile/keySL
 [linkedin]: https://www.linkedin.com/in/marclawingco/
