@@ -1,4 +1,4 @@
-### Hey! I am KL. How nice of you to look at my profile.
+## Hey! I am KL. How nice of you to look at my profile.
 
 
 <p align="center">
@@ -22,10 +22,9 @@ My full name is Marc Jhon M. Lawingco, its too long so just call me on my nickna
 - [Youtube - I make Vocaloid covers from time to time!][youtube]
 - [LinkedIn][linkedin]
 
-
 <br/>
 
-### Anyway, Thank you for dropping by! See you!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F9684A&background=12121200&vCenter=true&multiline=true&width=600&lines=Anyway%2C+Thank+you+for+dropping+by!+See+you!)](https://git.io/typing-svg)
 
 [website]: https://kllawingco.netlify.app/
 [twitter]: https://twitter.com/keysl1831/
