@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size: 14px">
- Developer | Writer | <span style="text-decoration:line-through">Weeb</span> Anime Fan
+ Developer | Writer | Anime Fan
 </p>
 
 ## Bits of info about me...
@@ -26,7 +26,7 @@ My full name is Marc Jhon M. Lawingco, its too long so just call me on my nickna
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F9684A&background=12121200&vCenter=true&multiline=true&width=600&lines=Anyway%2C+Thank+you+for+dropping+by!+See+you!)](https://git.io/typing-svg)
 
-[website]: https://kllawingco.netlify.app/
+[website]: https://kllawingco.com/
 [twitter]: https://twitter.com/keysl1831/
 [myanimelist]: https://myanimelist.net/profile/keySL
 [linkedin]: https://www.linkedin.com/in/marclawingco/
